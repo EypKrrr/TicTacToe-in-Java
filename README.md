@@ -1,1 +1,1 @@
-# TicTacToe-in-Java
+# Java'da TicTacToe.(TicTacToe in Java)
